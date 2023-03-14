@@ -1,0 +1,8 @@
+imageSet/
+test/
+valid/
+img/output/
+t_img/output/
+t_test/output/
+t_valid/output/
+models/
